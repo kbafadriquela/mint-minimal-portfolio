@@ -2,7 +2,7 @@
 
 Mint is a minimal one-page **WordPress landing page theme** inspired by a free PSD design from Graphberry. It’s built with **Elementor**, ensuring a clean, responsive, and customizable layout suitable for creative portfolios, freelancers, and digital professionals.
 
-![Mint Theme Preview](https://github.com/kbafadriquela/mint-minimal-portfolio/blob/main/assets/blob/mint-minimal-portfolio.png "Mint")
+![Mint Theme Preview](https://github.com/kbafadriquela/mint-minimal-portfolio/blob/main/assets/blob/mint-mockup.png "Mint")
 
 This theme focuses on simplicity and elegance — designed to highlight your work or services with smooth scrolling, a modern layout, and full responsiveness across all devices.
 
